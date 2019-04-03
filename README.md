@@ -8,6 +8,7 @@ Materials for ACDH Tool Gallery 5.1 on 03.04.2019.
 ### Git:
 * GitHub Desktop: https://desktop.github.com/
 * GitHub Desktop Documentation: https://help.github.com/en/desktop/contributing-to-projects
+* Git SCM Download: https://git-scm.com/download
 * Software Carpentry Git Lessons: http://swcarpentry.github.io/git-novice/
 * Further Git Lessons: https://github.com/acdh-oeaw/Teaching_CBS4DH/blob/master/lectures/git.md
 
